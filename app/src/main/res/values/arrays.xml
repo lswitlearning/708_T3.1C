@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="questions">
+        <item>5+8=?</item>
+        <item>9X7=?</item>
+        <item>58–26=?</item>
+        <item>72/2=?</item>
+        <item>231+24=?</item>
+<!--        <item>(5+3)X8=?</item>-->
+<!--        <item>8X8/64=?</item>-->
+<!--        <item>77+?=99</item>-->
+<!--        <item>1+2+3+4+5+6+7+8+9+10=?</item>-->
+<!--        <item>(6+2)X(9–2)=?</item>-->
+    </string-array>
+
+    <string-array name="choices">
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>63</item>
+        <item>65</item>
+        <item>67</item>
+        <item>69</item>
+        <item>20</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>30</item>
+        <item>32</item>
+        <item>34</item>
+        <item>36</item>
+        <item>254</item>
+        <item>255</item>
+        <item>256</item>
+        <item>257</item>
+<!--        <item>54</item>-->
+<!--        <item>64</item>-->
+<!--        <item>74</item>-->
+<!--        <item>84</item>-->
+<!--        <item>1</item>-->
+<!--        <item>2</item>-->
+<!--        <item>3</item>-->
+<!--        <item>4</item>-->
+<!--        <item>11</item>-->
+<!--        <item>22</item>-->
+<!--        <item>33</item>-->
+<!--        <item>44</item>-->
+<!--        <item>52</item>-->
+<!--        <item>53</item>-->
+<!--        <item>54</item>-->
+<!--        <item>55</item>-->
+<!--        <item>52</item>-->
+<!--        <item>54</item>-->
+<!--        <item>56</item>-->
+<!--        <item>58</item>-->
+    </string-array>
+
+
+    <string-array name="answers">
+        <item>Choice3</item>
+        <item>Choice1</item>
+        <item>Choice2</item>
+        <item>Choice4</item>
+        <item>Choice2</item>
+<!--        <item>64</item>-->
+<!--        <item>1</item>-->
+<!--        <item>22</item>-->
+<!--        <item>55</item>-->
+<!--        <item>56</item>-->
+    </string-array>
+
+
+</resources>
+
