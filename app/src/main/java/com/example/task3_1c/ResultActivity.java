@@ -18,7 +18,6 @@ public class ResultActivity extends AppCompatActivity {
     Button retakeButton;
     Button finishButton;
 
-    String name;
     int correctAnswers;
 
     @Override
